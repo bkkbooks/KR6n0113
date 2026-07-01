@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0113/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀所緣論釋
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1625.xml
+    old_id: T31n1625
+hash: sha256:523ebd24d40f4c8a27dcc8165a0ffe04cca427edeb11ab9644e7dc72c5579a16

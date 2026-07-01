@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6n0113/v1
+canonical_location: https://kanripo.org/bkk/KR6n0113/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 觀所緣論釋
+  identifiers:
+    alt_id:
+    - T31n1625
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1625.xml
+    old_id: T31n1625
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0113_000.yaml, hash: 'sha256:523ebd24d40f4c8a27dcc8165a0ffe04cca427edeb11ab9644e7dc72c5579a16'}
+  - {seq: 1, filename: KR6n0113_001.yaml, hash: 'sha256:f387420e03f105e3e7e643d7df0e7c69cedf2c18c0769fb0c4342fb5ce58cd1e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0113_001.markers.yaml, hash: 'sha256:e5dad8073f74ba21df9d02e499b818ccdda3fbc55512ab2adf0a6f0b2638d8b5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0113_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4262
+  label: 觀所緣論釋
+  type: juan
+  level: 1
+hash: sha256:11015a22d3e1b52851b221797e984260af38f1db2453050e51df2d2d6f1f255c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
